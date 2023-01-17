@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 6f9b4a3faff3523428dc6d491518a0dc
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basketball
+    second: {fileID: 2100000, guid: bb845b3825cc27844902ad8a3e205426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityProps
+    second: {fileID: 2100000, guid: 544c83ee4aa001e4ab483e7f55ab8b39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityProps1GLOW
+    second: {fileID: 2100000, guid: 6666768f3c89d3d4cbf76099b80cc14a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clinic
+    second: {fileID: 2100000, guid: ecce8b5d7c846d545a87f2e0f238c3e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FillerBuildings1
+    second: {fileID: 2100000, guid: dfcee324b4b1f174b89cf8aca5489200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FillerBuildings1GLOW
+    second: {fileID: 2100000, guid: c6775ce943d086d428ba8089a0d12ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FishFactory
+    second: {fileID: 2100000, guid: f5d9121203156264594dde71f37e835f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FishFactory1GLOW
+    second: {fileID: 2100000, guid: 092d467840acf064fa552fcf148f96e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreenGlow
+    second: {fileID: 2100000, guid: 4686a2f357be75f46a46d2bec56b77cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LMProjects
+    second: {fileID: 2100000, guid: 894df8e67e3c3a14e82986cbfb66d047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LMProjects1GLOW
+    second: {fileID: 2100000, guid: 191f8f83ce0f6fa4b86362497b40e54b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laundrymat
+    second: {fileID: 2100000, guid: f80cf2e537c695343b0af5f0a690c652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paramount
+    second: {fileID: 2100000, guid: 1eedb2b830fc5194a8ce5c3bcbc9527e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paramount1GLOW
+    second: {fileID: 2100000, guid: e705f51193526ec459246ce9c5591b19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pawnshop
+    second: {fileID: 2100000, guid: 7e85b7e3312d8a940ab51230139bb0b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pawnshop1GLOW
+    second: {fileID: 2100000, guid: c0287ddf065297d4999d551fe2d52ef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedGLOW
+    second: {fileID: 2100000, guid: d3e8fcf1c8d8eaf428a6cc70e9e8c9df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadsGround
+    second: {fileID: 2100000, guid: d502e5e8a2077334896b69bf941641d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire
+    second: {fileID: 2100000, guid: 2f3b870281f7a484aade58e28ebd3bc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteGlow
+    second: {fileID: 2100000, guid: 048f10b747cb98f4a84794d52e6a37ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteGlow1
+    second: {fileID: 2100000, guid: 60f46c18f7ecb2f4d9bdb85e3da1bcc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: elise
+    second: {fileID: 2100000, guid: 0c73f6a693281d04188c0e3a2319357f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: City_Props
+    second: {fileID: 2800000, guid: dc1d6ded9f7085c48bc37730e34fc9f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Filler_Buildings_1
+    second: {fileID: 2800000, guid: c7c32779f86e0344888fc0cbaa0384aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LM_Basketball
+    second: {fileID: 2800000, guid: be9f37a0a89cbc344af5ce9cb9f543c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LM_Clinic
+    second: {fileID: 2800000, guid: a69e20cf148418248a48d1b5920b06fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LM_FishFactory
+    second: {fileID: 2800000, guid: cb2abe2da2062ac40be9f06c846ad4e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LM_Laundrymat
+    second: {fileID: 2800000, guid: d1edd95874efd6741be62a7313c0f236, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LM_Pawnshop
+    second: {fileID: 2800000, guid: 5e4047158b86b264ea8685d270afe68d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LM_Projects
+    second: {fileID: 2800000, guid: de69f4ebec9d7b14ea4d7660463cc169, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lotus_Yellow
+    second: {fileID: 2800000, guid: 7ffd80d1ed6fa8a4693b2c4b2710e003, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lotus_wheel_large
+    second: {fileID: 2800000, guid: a9746489f6cf63143981b3d7e80bf4a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paramount
+    second: {fileID: 2800000, guid: ef0f2fa28db106443959729e2d843d33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roads_Grounds
+    second: {fileID: 2800000, guid: 96d0306d23db2e749bc02fdacd0ed167, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
